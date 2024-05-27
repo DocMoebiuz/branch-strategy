@@ -1,0 +1,6 @@
+@branch_strategy_HostAddress = http://localhost:5289
+
+GET {{branch_strategy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
